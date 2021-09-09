@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+}
+
+.box  {
+position: relative;
+    background-color: white;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    border: solid black 2px;
+    border-radius: 10px;
+
+
+}
+
+
+
+
+.myBooimg {
+display: inline-block;
+    margin: 75px auto auto;
+    height: 250px;
+    width: 200px;
+    border: solid black 2px;
+    margin-left: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+
+}
+
+.aboutBoo  {
+    display: inline-block;
+    margin-left:20px;
+    height: 150px;
+    width: 250px;
+    /* position: absolute; */
+    padding: 30px;
+    background-color: #eee1e1;
+    border-radius: 15px;
+    box-shadow:10px 10px #b0758b;
+
+}
